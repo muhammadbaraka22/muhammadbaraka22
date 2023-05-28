@@ -24,6 +24,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![ECMA 6](https://img.shields.io/badge/-ECMA 6-05122A?style=flat&logo=ECMA 6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -35,6 +36,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=Java)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular%20-05122A?style=flat&logo=Angular)&nbsp;
+![AngularMaterial](https://img.shields.io/badge/-AngularMaterial%20-05122A?style=flat&logo=AngularMaterial)&nbsp;
 
 
 
