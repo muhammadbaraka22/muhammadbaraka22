@@ -34,7 +34,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=Java)&nbsp;
+![OOP](https://img.shields.io/badge/-Oop%20-05122A?style=flat&logo=Oop)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular%20-05122A?style=flat&logo=Angular)&nbsp;
+
 ![AngularMaterial](https://img.shields.io/badge/-AngularMaterial%20-05122A?style=flat&logo=AngularMaterial)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL%20-05122A?style=flat&logo=MySQL)&nbsp;
 
